@@ -17,7 +17,7 @@ Going to be using :
 
 # Run
 ```shell
-webpack
+npm run build
 ```
 
 ```shell
