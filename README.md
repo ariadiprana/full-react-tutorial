@@ -1,4 +1,4 @@
-# A Complete Intro to React
+# React Self Learning
 
 Using
 - React
@@ -22,4 +22,8 @@ webpack
 
 ```shell
 yarn
+```
+
+```shell
+npm run lint
 ```
