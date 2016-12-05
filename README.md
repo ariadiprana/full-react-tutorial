@@ -1,2 +1,7 @@
-# full-react-tutorial
-self learning for understanding and implementing React with updated various surround tools / Dec2016
+# A Complete Intro to React
+
+Using
+- React
+- Webpack
+- Yarn
+- Standard
