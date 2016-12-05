@@ -27,3 +27,7 @@ yarn
 ```shell
 npm run lint
 ```
+
+```shell
+npm run watch
+```
