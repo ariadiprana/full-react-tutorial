@@ -2,9 +2,10 @@
 
 Using
 - React
-- Webpack
+- Webpack 2
 - Yarn
 - Standard
+- Eslint
 - Node JS
 - Babel
 
@@ -30,4 +31,8 @@ npm run lint
 
 ```shell
 npm run watch
+```
+
+```shell
+npm run dev
 ```
