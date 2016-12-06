@@ -2,6 +2,7 @@
 
 Using
 - React
+- React-Router
 - Webpack 2
 - Yarn
 - Standard
@@ -13,7 +14,6 @@ Going to be using :
 - Mocha
 - Enzyme
 - npm
-- React-Router
 
 
 # Run
