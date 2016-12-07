@@ -9,6 +9,7 @@ Using
 - Eslint
 - Node JS
 - Babel
+- Jest
 
 Going to be using :
 - Mocha
